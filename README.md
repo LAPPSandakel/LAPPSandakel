@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
 
 
